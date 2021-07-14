@@ -6,7 +6,7 @@ This is an app that is used to take and save notes. The user has the ability to 
 </br>
 
 ## Installation and Operation
-To run the app locally, the user should locally clone the repo and navigate to the repo in the command line. Once in the repo, run `npm install` to install all of the required dependencies. From there run `node server.js` to start the server. From there you should connect to localhost:3000 in your browser of choice, and the app should be up and running.
+To run the app locally, the user should locally clone the repo and navigate to the repo in the command line. Once in the repo, run `npm install` to install all of the required dependencies. From there run `node server.js` to start the server. From there you should connect to localhost:3000 in your browser of choice, and the app should be up and running. Another option is simply clicking the link at the bottom of the README to access a deployed version of the app.
 
 </br>
 
